@@ -1,0 +1,15 @@
+= [Project Title Here]
+
+[Project Description Here]
+
+== Dependencies
+
+* first dependency[url]
+* second dependency[url]
+
+== Author
+
+Copyright (c) 2010 by {Mark T. Tomczak}[http://fixermark.com], released under [license]
+
+[global license terms here]
+
